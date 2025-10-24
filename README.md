@@ -5,6 +5,6 @@
 **RM:** 87382
 
 ## Prints da Execução
-![Execução 1](./execucao_1.png)
-![Execução 2](./execucao_2.png)
+![Execucao 1](./execucao_1.png)
+![Execucao 2](./execucao_2.png)
 
